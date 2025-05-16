@@ -30,7 +30,7 @@ Esta es una aplicación web creada con React y Next.js que permite consultar el 
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/diegool2121/AppClima.git
 cd tu-repositorio
 ```
 
