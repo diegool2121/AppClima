@@ -31,7 +31,7 @@ Esta es una aplicación web creada con React y Next.js que permite consultar el 
 
 ```bash
 git clone https://github.com/diegool2121/AppClima.git
-cd tu-repositorio
+cd clima
 ```
 
 2. Instala las dependencias:
