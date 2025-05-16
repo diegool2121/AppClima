@@ -19,12 +19,12 @@ jobs:
           node-version: 18
 
       - name: Entrar a la carpeta AppClima
-        run: cd AppClima
+        run: cd clima
 
       - name: Instalar dependencias
-        working-directory: ./AppClima
+        working-directory: ./clima
         run: npm install
 
       - name: Ejecutar build de Next.js
-        working-directory: ./AppClima
+        working-directory: ./clima
         run: npm run build
